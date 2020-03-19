@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+<Person-Details>
+<name>Anand</name>
+<address>Andheri</address>
+<std>second</std>
+<marks>70</marks>
+</Person-Details>
+<Person-Details>
+<name>Sonali</name>
+<address>Borivali</address>
+<std>third</std>
+<marks>90</marks>
+</Person-Details>
+<Person-Details>
+<name>Shruti</name>
+<address>Kandivali</address>
+<std>third</std>
+<marks>95</marks>
+</Person-Details>
+<Person-Details>
+<name>Shreya</name>
+<address>Malad</address>
+<std>fourth</std>
+<marks>80</marks>
+</Person-Details>
+</Student>

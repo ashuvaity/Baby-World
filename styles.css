@@ -1,0 +1,92 @@
+@media screen and (min-width: 308px)  and (max-width: 300px){
+.aaa{
+	height:auto;
+	width:auto;
+}
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color:pink;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+    background-attachment: fixed;
+}
+
+.login-box{
+    width: 300px;
+    height: 320px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: fixed;
+    transform: translate(-50%,-50%);
+ border-radius: 30px;
+    padding: 50px 20px;
+  border: 1pxsolid red;
+}
+
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+	color:steelblue;
+	-webkit-animation-name:example;
+	-webkit-animation-duration :4s;
+	animation-name:example;
+	animation-duration :4s;
+	animation-iteration-count: infinite;
+	animation-timing-function:ease-in;
+}
+@-webkit-keyframes example{
+	from {color: red;}
+	to {color:blue;}
+}
+.login-box p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+.login-box input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.login-box input[type="text"], input[type="password"]
+{
+    border: none;
+    border-bottom: 1px solid white;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+.login-box input[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #1c8adb;
+    color: white;
+    font-size: 18px;
+    border-radius: 20px;
+}
+.login-box input[type="submit"]:hover
+{
+    cursor: pointer;
+    background:green;
+    color: black;
+}
+
+.login-box a{
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+}
+.login-box a:hover
+{
+    color: steelblue;
+}

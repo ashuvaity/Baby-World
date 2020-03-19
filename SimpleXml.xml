@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="SimpleXml5.xsl"?>
+<Books>
+<Book-Details>
+<BookID>00150</BookID>
+<BookName>where is Baby's belly button?</BookName>
+<Price>499</Price>
+<UnitsLeft>26</UnitsLeft>
+</Book-Details>
+<Book-Details>
+<BookID>00151</BookID>
+<BookName>Goodnight Moon</BookName>
+<Price>475</Price>
+<UnitsLeft>14</UnitsLeft>
+</Book-Details>
+<Book-Details>
+<BookID>00153</BookID>
+<BookName>The Very Hungry Caterpillar</BookName>
+<Price>549</Price>
+<UnitsLeft>17</UnitsLeft>
+</Book-Details>
+<Book-Details>
+<BookID>00154</BookID>
+<BookName>The Giving Tree</BookName>
+<Price>699</Price>
+<UnitsLeft>31</UnitsLeft>
+</Book-Details>
+<Book-Details>
+<BookID>00163</BookID>
+<BookName>Panchatantra</BookName>
+<Price>399</Price>
+<UnitsLeft>15</UnitsLeft>
+</Book-Details>
+<Book-Details>
+<BookID>00188</BookID>
+<BookName>Supandi novel</BookName>
+<Price>99</Price>
+<UnitsLeft>10</UnitsLeft>
+</Book-Details>
+<Book-Details>
+<BookID>00190</BookID>
+<BookName>Jakata tales</BookName>
+<Price>789</Price>
+<UnitsLeft>13</UnitsLeft>
+</Book-Details>
+<Book-Details>
+<BookID>00123</BookID>
+<BookName>Arabian nights</BookName>
+<Price>399</Price>
+<UnitsLeft>40</UnitsLeft>
+</Book-Details>
+<Book-Details>
+<BookID>00100</BookID>
+<BookName>Cinderella</BookName>
+<Price>99</Price>
+<UnitsLeft>77</UnitsLeft>
+</Book-Details>
+<Book-Details>
+<BookID>00178</BookID>
+<BookName>Snow white</BookName>
+<Price>90</Price>
+<UnitsLeft>15</UnitsLeft>
+</Book-Details>
+<Book-Details>
+<BookID>00156</BookID>
+<BookName>Malgudi Days</BookName>
+<Price>509</Price>
+<UnitsLeft>18</UnitsLeft>
+</Book-Details>
+<Book-Details>
+<BookID>00145</BookID>
+<BookName>Dora the color book</BookName>
+<Price>300</Price>
+<UnitsLeft>25</UnitsLeft>
+</Book-Details>
+<Book-Details>
+<BookID>00163</BookID>
+<BookName>Tales of Shivaji Maharaj</BookName>
+<Price>499</Price>
+<UnitsLeft>55</UnitsLeft>
+</Book-Details>
+<Book-Details>
+<BookID>00169</BookID>
+<BookName>My color book</BookName>
+<Price>88</Price>
+<UnitsLeft>19</UnitsLeft>
+</Book-Details>
+<Book-Details>
+<BookID>00789</BookID>
+<BookName>Jokes and Fun</BookName>
+<Price>399</Price>
+<UnitsLeft>88</UnitsLeft>
+</Book-Details>
+</Books>

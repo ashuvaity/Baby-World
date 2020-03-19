@@ -1,0 +1,27 @@
+
+body{
+	padding:10px;
+}
+.slides{
+	margin:50px;
+	position:relative;
+	height:300px;
+	width:auto;
+}
+.slides  img{
+	height:300px;
+	width:100%;
+	position: absolute;
+	top:0px;
+	left:0px;
+	z-index:-2;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+.slides  img.top{
+	z-index:-1;
+}
+

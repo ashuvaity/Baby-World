@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!-- form.html by Bill Weinman http://bw.org/ -->
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8" /> 
+    <title>
+       ADD CART
+    </title>
+    <link rel="stylesheet" type="text/css" href="forms.css" />
+    <script type="text/javascript" src="forms.js"></script>
+</head>
+<body>
+
+<div id="outer">
+<div id="form">
+<h1>
+    ADD CART
+</h1>
+
+<form id="f1" onsubmit="return display()" method="post">
+    <p>PRODUCT NAME: <input type="text" name="PRODUCT NAME" autofocus /> </p>
+    <p>QUANTITY: <input type="text" name="QUANTITY" /> </p>
+    <p> <input type="submit" name="RESULTS"  placeholder="ADD" onclick="return display()" /> </p>
+</form>
+
+<datalist id="cats">
+    <option value="cheshire"></option>
+    <option value="hat">The Cat in the Hat</option>
+    <option value="bigglesworth"></option>
+    <option value="fritz"></option>
+    <option value="spot"></option>
+    <option value="cat"></option>
+    <option value="tom"></option>
+    <option value="heathcliff"></option>
+    <option value="garfield"></option>
+</datalist>
+
+</div> <!-- form -->
+
+<div id="results">
+    <p>YOUR PRODUCT DATA WILL DISPLAY HERE</p>
+</div> <!-- results -->
+</div> <!-- outer -->
+
+</body>
+</html>
